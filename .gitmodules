@@ -1,3 +1,0 @@
-[submodule "pam"]
-	path = pam
-	url = https://git.fedorahosted.org/git/linux-pam.git
